@@ -1,7 +1,7 @@
 # RB Visualizer
 
 Relational Database Visualizer is a Project(still a demo) inspired by Drawsql and  
-has been made with the sole purpose of learning.
+it has been made with the sole purpose of learning.
 ---
 ## Packages used
 - [flutter_hooks](https://github.com/rrousselGit/flutter_hooks)
@@ -24,13 +24,13 @@ of the app).
 ---
 Capture of the App working
 
-![alt text](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdbvisualizer.PNG)
+![rdbvisualizer](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdbvisualizer.PNG)
 
 Table Manager 
 
-![alt text](https://github.com/namzug16/RD_Visualizer/blob/master/assets/tablemanager.PNG)
+![table manager](https://github.com/namzug16/RD_Visualizer/blob/master/assets/tablemanager.PNG)
 
 Features of the Canvas
 
-![alt text](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdvisualizer1.gif)
-![alt text](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdvisualizer2.gif)
+![canvas features](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdvisualizer1.gif)
+![canvas features](https://github.com/namzug16/RD_Visualizer/blob/master/assets/rdvisualizer2.gif)
